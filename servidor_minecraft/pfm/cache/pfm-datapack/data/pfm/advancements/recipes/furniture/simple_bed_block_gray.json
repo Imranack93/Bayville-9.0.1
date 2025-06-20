@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "has_workbench": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pfm:working_table"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_workbench"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

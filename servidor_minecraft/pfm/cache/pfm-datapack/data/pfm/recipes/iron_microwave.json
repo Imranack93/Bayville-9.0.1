@@ -1,0 +1,30 @@
+{
+  "group": "kitchen",
+  "result": {
+    "item": "pfm:iron_microwave"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:furnace"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}
