@@ -17,15 +17,21 @@
     },
     "done": true
   },
-  "ketket_shops:sp_adv_1": {
-    "criteria": {
-      "requirement": "2025-06-19 18:19:42 +0000"
-    },
-    "done": true
-  },
   "pfm:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-06-19 18:19:41 +0000"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-19 18:19:41 +0000"
+    },
+    "done": true
+  },
+  "ketket_shops:sp_adv_1": {
+    "criteria": {
+      "requirement": "2025-06-19 18:19:42 +0000"
     },
     "done": true
   },
@@ -41,9 +47,33 @@
     },
     "done": false
   },
-  "ggunz:recipes/misc/iron_block": {
+  "bsroleplay:recipes/misc/crown": {
     "criteria": {
-      "has_raw_iron": "2025-06-19 18:19:41 +0000"
+      "has_emerald": "2025-06-21 09:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-21 09:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-21 09:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-21 09:55:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-06-21 09:55:48 +0000"
     },
     "done": true
   },
