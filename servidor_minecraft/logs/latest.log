@@ -1,5 +1,5 @@
-[15:45:54] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[15:45:54] [main/INFO]: Loading 65 mods:
+[16:59:24] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[16:59:26] [main/INFO]: Loading 65 mods:
 	- architectury 11.1.17
 	- bsroleplay 1.7.5-1.20.4
 	- camerapture 1.6.4
@@ -80,430 +80,359 @@
 	   \-- mixinextras 0.4.1
 	- voicechat 1.20.4-2.5.22
 	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
-[15:45:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Bayville-9.0.1/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:45:55] [main/INFO]: Compatibility level set to JAVA_16
-[15:45:55] [main/INFO]: Compatibility level set to JAVA_17
-[15:45:55] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 1 override(s) found
-[15:45:55] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[15:45:55] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity)
-[15:45:55] [main/WARN]: Error loading class: net/blay09/mods/cookingforblockheads/crafting/KitchenImpl (java.lang.ClassNotFoundException: net/blay09/mods/cookingforblockheads/crafting/KitchenImpl)
-[15:45:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15:46:02] [main/INFO]: Registering Item Groups for bsroleplay
-[15:46:02] [main/INFO]: Registering Mod Items for bsroleplay
-[15:46:02] [main/INFO]: Registering Sounds for bsroleplay
-[15:46:02] [main/INFO]: Registering Screen Handlers for bsroleplay
-[15:46:02] [main/INFO]: Registering ModBlocks for bsroleplay
-[15:46:02] [main/ERROR]: No data fixer registered for picture_frame
-[15:46:02] [main/ERROR]: No data fixer registered for tileblockanvil
-[15:46:02] [main/ERROR]: No data fixer registered for tilenpcborder
-[15:46:02] [main/ERROR]: No data fixer registered for tilenpcbuilder
-[15:46:02] [main/ERROR]: No data fixer registered for tilenpccopy
-[15:46:02] [main/ERROR]: No data fixer registered for tilemailbox
-[15:46:02] [main/ERROR]: No data fixer registered for tileredstoneblock
-[15:46:02] [main/ERROR]: No data fixer registered for tilenpcscripted
-[15:46:02] [main/ERROR]: No data fixer registered for tilenpcscripteddoor
-[15:46:02] [main/ERROR]: No data fixer registered for tilewaypoint
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:npcpony
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:npccrystal
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:npcslime
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:npcdragon
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:npcgolem
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:customnpc
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:customnpc64x32
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:customnpcalex
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:customnpcclassic
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:customnpcchairmount
-[15:46:02] [main/ERROR]: No data fixer registered for customnpcs:customnpcprojectile
-[15:46:03] [main/INFO]: Beginning lexicon shelving!
-[15:46:03] [main/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@3490bfed!
-[15:46:03] [main/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@189fcd0!
-[15:46:03] [main/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@3490bfed!
-[15:46:03] [main/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@189fcd0!
-[15:46:03] [main/INFO]: Lexiconfig cataloging completed!
-[15:46:03] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Cached update file detected, using that!
-[15:46:03] [main/ERROR]: No data fixer registered for chair
-[15:46:03] [main/ERROR]: No data fixer registered for wire
-[15:46:03] [main/INFO]: [voicechat] Compatibility version 18
-[15:46:03] [main/INFO]: [voicechat] Loading plugins
-[15:46:03] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[15:46:03] [main/INFO]: [voicechat] Initializing plugins
-[15:46:03] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[15:46:03] [main/INFO]: [voicechat] Registering events for 'simpleradio'
-[15:46:03] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
-[15:46:03] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[15:46:03] [main/WARN]: resource-pack-id missing, using default of 055f64aa-37df-344f-81fb-0f27ede395ab
-[15:46:03] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:46:04] [main/INFO]: Data Hash for Game Data and Variant List matched, skipping generation
-[15:46:05] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:non_underwater_blocks as it is missing following references: minecraft:grass (from mr_guns)
-[15:46:06] [main/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/wither}.pools[1].entries[0]: Unknown loot table called vanilla:entities/wither
-[15:46:06] [main/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[15:46:06] [main/INFO]: Loaded 9 recipes
-[15:46:06] [main/INFO]: Loaded 1627 advancements
-[15:46:07] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.561 ms
-[15:46:07] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[15:46:07] [Server thread/INFO]: Loading properties
-[15:46:07] [Server thread/INFO]: Default game type: SURVIVAL
-[15:46:07] [Server thread/INFO]: Generating keypair
-[15:46:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:46:07] [Server thread/INFO]: Using epoll channel type
-[15:46:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:46:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:46:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:46:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:46:07] [Server thread/INFO]: Preparing level "world"
-[15:46:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:46:11] [Worker-Main-1/INFO]: menu.preparingSpawn
-[15:46:11] [Worker-Main-3/INFO]: menu.preparingSpawn
-[15:46:11] [Worker-Main-2/INFO]: menu.preparingSpawn
-[15:46:11] [Worker-Main-2/INFO]: menu.preparingSpawn
-[15:46:11] [Worker-Main-2/INFO]: menu.preparingSpawn
-[15:46:11] [Worker-Main-2/INFO]: menu.preparingSpawn
-[15:46:11] [Worker-Main-2/INFO]: menu.preparingSpawn
-[15:46:11] [Worker-Main-1/INFO]: menu.preparingSpawn
-[15:46:11] [Worker-Main-3/INFO]: menu.preparingSpawn
-[15:46:12] [Worker-Main-3/INFO]: menu.preparingSpawn
-[15:46:13] [Server thread/INFO]: menu.preparingSpawn
-[15:46:13] [Server thread/INFO]: Time elapsed: 5389 ms
-[15:46:13] [Server thread/INFO]: Done (5.662s)! For help, type "help"
-[15:46:13] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[15:46:13] [VoiceChatServerThread/ERROR]: [voicechat] Failed to parse bind IP address 'event-speeches.gl.at.ply.gg:2810'
+[16:59:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Bayville-9.0.1/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:59:26] [main/INFO]: Compatibility level set to JAVA_16
+[16:59:26] [main/INFO]: Compatibility level set to JAVA_17
+[16:59:27] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 1 override(s) found
+[16:59:27] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[16:59:28] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity)
+[16:59:28] [main/WARN]: Error loading class: net/blay09/mods/cookingforblockheads/crafting/KitchenImpl (java.lang.ClassNotFoundException: net/blay09/mods/cookingforblockheads/crafting/KitchenImpl)
+[16:59:28] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:59:36] [main/INFO]: Registering Item Groups for bsroleplay
+[16:59:36] [main/INFO]: Registering Mod Items for bsroleplay
+[16:59:36] [main/INFO]: Registering Sounds for bsroleplay
+[16:59:36] [main/INFO]: Registering Screen Handlers for bsroleplay
+[16:59:37] [main/INFO]: Registering ModBlocks for bsroleplay
+[16:59:37] [main/ERROR]: No data fixer registered for picture_frame
+[16:59:37] [main/ERROR]: No data fixer registered for tileblockanvil
+[16:59:37] [main/ERROR]: No data fixer registered for tilenpcborder
+[16:59:37] [main/ERROR]: No data fixer registered for tilenpcbuilder
+[16:59:37] [main/ERROR]: No data fixer registered for tilenpccopy
+[16:59:37] [main/ERROR]: No data fixer registered for tilemailbox
+[16:59:37] [main/ERROR]: No data fixer registered for tileredstoneblock
+[16:59:37] [main/ERROR]: No data fixer registered for tilenpcscripted
+[16:59:37] [main/ERROR]: No data fixer registered for tilenpcscripteddoor
+[16:59:37] [main/ERROR]: No data fixer registered for tilewaypoint
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:npcpony
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:npccrystal
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:npcslime
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:npcdragon
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:npcgolem
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:customnpc
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:customnpc64x32
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:customnpcalex
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:customnpcclassic
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:customnpcchairmount
+[16:59:37] [main/ERROR]: No data fixer registered for customnpcs:customnpcprojectile
+[16:59:37] [main/INFO]: Beginning lexicon shelving!
+[16:59:37] [main/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@34a63c8f!
+[16:59:37] [main/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@4fdd1cfb!
+[16:59:37] [main/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@34a63c8f!
+[16:59:37] [main/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@4fdd1cfb!
+[16:59:38] [main/INFO]: Lexiconfig cataloging completed!
+[16:59:38] [main/ERROR]: No data fixer registered for chair
+[16:59:38] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Cached update file detected, using that!
+[16:59:38] [main/ERROR]: No data fixer registered for wire
+[16:59:38] [main/INFO]: [voicechat] Compatibility version 18
+[16:59:38] [main/INFO]: [voicechat] Loading plugins
+[16:59:38] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[16:59:38] [main/INFO]: [voicechat] Initializing plugins
+[16:59:38] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[16:59:38] [main/INFO]: [voicechat] Registering events for 'simpleradio'
+[16:59:38] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
+[16:59:38] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[16:59:38] [main/WARN]: resource-pack-id missing, using default of 055f64aa-37df-344f-81fb-0f27ede395ab
+[16:59:38] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:59:40] [main/INFO]: Data Hash for Game Data and Variant List matched, skipping generation
+[16:59:41] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:non_underwater_blocks as it is missing following references: minecraft:grass (from mr_guns)
+[16:59:42] [main/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/wither}.pools[1].entries[0]: Unknown loot table called vanilla:entities/wither
+[16:59:42] [main/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[16:59:42] [main/INFO]: Loaded 9 recipes
+[16:59:42] [main/INFO]: Loaded 1627 advancements
+[16:59:43] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.925 ms
+[16:59:44] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[16:59:44] [Server thread/INFO]: Loading properties
+[16:59:44] [Server thread/INFO]: Default game type: SURVIVAL
+[16:59:44] [Server thread/INFO]: Generating keypair
+[16:59:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:59:44] [Server thread/INFO]: Using epoll channel type
+[16:59:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:59:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:59:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:59:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:59:44] [Server thread/INFO]: Preparing level "world"
+[16:59:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:59:49] [Worker-Main-1/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-2/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-2/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-2/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-1/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-3/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-1/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-3/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-1/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-2/INFO]: menu.preparingSpawn
+[16:59:49] [Worker-Main-2/INFO]: menu.preparingSpawn
+[16:59:50] [Worker-Main-1/INFO]: menu.preparingSpawn
+[16:59:50] [Worker-Main-1/INFO]: menu.preparingSpawn
+[16:59:51] [Worker-Main-3/INFO]: menu.preparingSpawn
+[16:59:51] [Server thread/INFO]: menu.preparingSpawn
+[16:59:52] [Server thread/INFO]: Time elapsed: 7465 ms
+[16:59:52] [Server thread/INFO]: Done (7.783s)! For help, type "help"
+[16:59:53] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:59:53] [VoiceChatServerThread/ERROR]: [voicechat] Failed to parse bind IP address 'event-speeches.gl.at.ply.gg:2810'
 java.net.UnknownHostException: event-speeches.gl.at.ply.gg:2810: invalid IPv6 address literal
 	at java.net.InetAddress.invalidIPv6LiteralException(InetAddress.java:1693) ~[?:?]
 	at java.net.InetAddress.getAllByName(InetAddress.java:1663) ~[?:?]
 	at java.net.InetAddress.getByName(InetAddress.java:1568) ~[?:?]
 	at de.maxhenkel.voicechat.plugins.impl.VoicechatSocketImpl.open(VoicechatSocketImpl.java:25) ~[voicechat-fabric-1.20.4-2.5.22.jar:?]
 	at de.maxhenkel.voicechat.voice.server.Server.run(Server.java:102) ~[voicechat-fabric-1.20.4-2.5.22.jar:?]
-[15:46:13] [VoiceChatServerThread/INFO]: [voicechat] Binding to wildcard IP address
-[15:46:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at event-speeches.gl.at.ply.gg:2810:2810
-[15:46:26] [Server thread/INFO]: Steve[/127.14.89.114:36147] logged in with entity id 352 at (-76.47204009686206, 11.0, 328.1322994452731)
-[15:46:26] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[15:46:26] [Server thread/INFO]: multiplayer.player.joined
-[15:46:29] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
-[15:46:29] [Server thread/INFO]: [voicechat] Sent secret to Steve
-[15:46:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
-[15:46:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
-[15:46:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
-[15:50:00] [Server thread/INFO]: Imran330[/127.14.89.114:56669] logged in with entity id 358 at (-89.93667583308637, 13.5, 220.96043853821467)
-[15:50:00] [Server thread/INFO]: multiplayer.player.joined
-[15:50:01] [Server thread/INFO]: [voicechat] Received secret request of Imran330 (18)
-[15:50:01] [Server thread/INFO]: [voicechat] Sent secret to Imran330
-[15:50:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
-[15:50:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
-[15:50:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Imran330 (4b534696-23d8-32b0-8c62-0fe0fb8fc407) successfully connected to voice chat
-[15:50:31] [Server thread/INFO]: chat.type.admin
-[15:50:49] [Server thread/INFO]: chat.type.admin
-[15:51:52] [Server thread/INFO]: chat.type.admin
-[15:51:57] [Server thread/INFO]: chat.type.admin
-[15:55:23] [Server thread/INFO]: chat.type.admin
-[15:57:00] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/491, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
-[15:58:34] [Server thread/INFO]: chat.type.advancement.challenge
-[15:58:48] [Server thread/INFO]: chat.type.admin
-[15:59:01] [Server thread/INFO]: chat.type.admin
-[15:59:26] [Server thread/INFO]: chat.type.advancement.goal
-[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5627dd98-e6be-3c21-b8a8-e92344183641 timed out
-[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Steve
-[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Steve
-[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4b534696-23d8-32b0-8c62-0fe0fb8fc407 timed out
-[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Imran330
-[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Imran330
-[15:59:57] [Server thread/INFO]: Steve lost connection: disconnect.timeout
-[15:59:57] [Server thread/INFO]: multiplayer.player.left
-[15:59:57] [Server thread/INFO]: [voicechat] Disconnecting client Steve
-[15:59:57] [Server thread/WARN]: handleDisconnection() called twice
-[16:00:01] [Server thread/INFO]: Imran330 lost connection: disconnect.timeout
-[16:00:01] [Server thread/INFO]: multiplayer.player.left
-[16:00:01] [Server thread/INFO]: [voicechat] Disconnecting client Imran330
-[16:05:41] [Server thread/INFO]: Steve[/127.14.89.114:37727] logged in with entity id 744 at (-84.180090594878, 12.0, 269.76365369184515)
-[16:05:41] [Server thread/INFO]: multiplayer.player.joined
-[16:05:41] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
-[16:05:41] [Server thread/INFO]: [voicechat] Sent secret to Steve
-[16:05:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:05:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:05:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
-[16:06:03] [Server thread/INFO]: Bbsito[/127.14.89.114:50125] logged in with entity id 747 at (-34.5, 13.0, 194.5)
-[16:06:03] [Server thread/INFO]: multiplayer.player.joined
-[16:06:05] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
-[16:06:05] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
-[16:06:07] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/764, l='ServerLevel[Bayville]', x=5.50, y=4.00, z=166.50] died, message: 'death.attack.genericKill'
-[16:06:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
-[16:06:11] [Server thread/INFO]: Bbsito lost connection: multiplayer.disconnect.generic
-[16:06:11] [Server thread/INFO]: multiplayer.player.left
-[16:06:11] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
-[16:07:05] [Server thread/INFO]: Imran330[/127.14.89.114:37357] logged in with entity id 830 at (-84.68153918375128, 12.0, 267.3418997986498)
-[16:07:05] [Server thread/INFO]: multiplayer.player.joined
-[16:07:05] [Server thread/INFO]: [voicechat] Received secret request of Imran330 (18)
-[16:07:05] [Server thread/INFO]: [voicechat] Sent secret to Imran330
-[16:07:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
-[16:07:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
-[16:07:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Imran330 (4b534696-23d8-32b0-8c62-0fe0fb8fc407) successfully connected to voice chat
-[16:08:29] [Server thread/INFO]: chat.type.admin
-[16:08:38] [Server thread/INFO]: Bbsito[/127.14.89.114:33929] logged in with entity id 893 at (-35.5, 14.0, 163.5)
-[16:08:38] [Server thread/INFO]: multiplayer.player.joined
-[16:08:40] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
-[16:08:40] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
-[16:08:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:08:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:08:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
-[16:08:44] [Server thread/INFO]: Bbsito lost connection: multiplayer.disconnect.generic
-[16:08:44] [Server thread/INFO]: multiplayer.player.left
-[16:08:44] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
-[16:11:05] [Server thread/INFO]: Bbsito[/127.14.89.114:54771] logged in with entity id 1040 at (-35.5, 14.0, 163.5)
-[16:11:05] [Server thread/INFO]: multiplayer.player.joined
-[16:11:07] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
-[16:11:07] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
-[16:11:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:11:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:11:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
-[16:12:53] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1147, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
-[16:12:58] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1108, l='ServerLevel[Bayville]', x=22.91, y=15.20, z=78.80] died, message: 'death.attack.genericKill'
-[16:14:43] [Server thread/INFO]: chat.type.admin
-[16:14:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/760, l='ServerLevel[Bayville]', x=3.22, y=3.00, z=158.49] died, message: 'death.attack.genericKill'
-[16:14:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/761, l='ServerLevel[Bayville]', x=-5.50, y=3.00, z=160.15] died, message: 'death.attack.genericKill'
-[16:14:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/762, l='ServerLevel[Bayville]', x=3.22, y=3.00, z=159.51] died, message: 'death.attack.genericKill'
-[16:14:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/763, l='ServerLevel[Bayville]', x=-8.08, y=3.00, z=163.10] died, message: 'death.attack.genericKill'
-[16:14:54] [Server thread/INFO]: chat.type.admin
-[16:17:23] [Server thread/INFO]: chat.type.admin
-[16:17:26] [Server thread/INFO]: chat.type.admin
-[16:17:28] [Server thread/INFO]: chat.type.admin
-[16:17:42] [Server thread/INFO]: chat.type.admin
-[16:18:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
-[16:18:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
-[16:18:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
-[16:19:06] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
-[16:19:06] [Server thread/INFO]: multiplayer.player.left
-[16:19:06] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
-[16:19:16] [Server thread/INFO]: Bbsito[/127.14.89.114:50367] logged in with entity id 1280 at (-75.69999998807907, 13.0, 269.69999998807907)
-[16:19:16] [Server thread/INFO]: multiplayer.player.joined
-[16:19:17] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
-[16:19:17] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
-[16:19:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:19:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:19:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
-[16:19:24] [Server thread/INFO]: chat.type.admin
-[16:19:26] [Server thread/INFO]: chat.type.admin
-[16:21:18] [Server thread/ERROR]: Display entityNot a string
-[16:21:25] [Server thread/INFO]: chat.type.admin
-[16:21:32] [Server thread/INFO]: chat.type.admin
-[16:21:48] [Server thread/INFO]: chat.type.admin
-[16:22:08] [Server thread/ERROR]: Display entityNot a string
-[16:22:09] [Server thread/ERROR]: Display entityNot a string
-[16:22:09] [Server thread/ERROR]: Display entityNot a string
-[16:24:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5627dd98-e6be-3c21-b8a8-e92344183641 timed out
-[16:24:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Steve
-[16:24:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Steve
-[16:24:13] [Server thread/INFO]: Steve lost connection: disconnect.timeout
-[16:24:13] [Server thread/INFO]: multiplayer.player.left
-[16:24:13] [Server thread/INFO]: [voicechat] Disconnecting client Steve
-[16:24:13] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.toolsmith'/1455, l='ServerLevel[Bayville]', x=-41.50, y=14.00, z=120.50] died, message: 'death.attack.genericKill'
-[16:24:40] [Server thread/INFO]: chat.type.admin
-[16:25:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
-[16:25:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
-[16:25:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
-[16:25:32] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
-[16:25:32] [Server thread/INFO]: multiplayer.player.left
-[16:25:32] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
-[16:25:54] [Server thread/INFO]: Bbsito[/127.14.89.114:48523] logged in with entity id 1634 at (173.4800929024194, 11.0, 232.86983573563805)
-[16:25:54] [Server thread/INFO]: multiplayer.player.joined
-[16:25:54] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
-[16:25:54] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
-[16:25:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:25:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:25:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
-[16:26:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
-[16:26:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
-[16:26:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
-[16:27:09] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
-[16:27:09] [Server thread/INFO]: multiplayer.player.left
-[16:27:09] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
-[16:27:28] [Server thread/ERROR]: Display entityNot a string
-[16:27:28] [Server thread/ERROR]: Display entityNot a string
-[16:27:28] [Server thread/ERROR]: Display entityNot a string
-[16:29:13] [Server thread/INFO]: Steve[/127.14.89.114:56707] logged in with entity id 1841 at (-45.45630964737007, 14.0, 114.75309725990626)
-[16:29:13] [Server thread/INFO]: multiplayer.player.joined
-[16:29:15] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
-[16:29:15] [Server thread/INFO]: [voicechat] Sent secret to Steve
-[16:29:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:29:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:29:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
-[16:29:30] [Server thread/INFO]: Bbsito[/127.14.89.114:60279] logged in with entity id 1871 at (167.31546909600425, 12.168749952316285, 241.68476717293288)
-[16:29:30] [Server thread/INFO]: multiplayer.player.joined
-[16:29:32] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
-[16:29:32] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
-[16:29:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:29:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:29:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
-[16:29:39] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.toolsmith'/1896, l='ServerLevel[Bayville]', x=-41.50, y=14.00, z=120.50] died, message: 'death.attack.genericKill'
-[16:29:47] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.toolsmith'/1917, l='ServerLevel[Bayville]', x=-41.50, y=14.00, z=120.50] died, message: 'death.attack.genericKill'
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:49] [Server thread/ERROR]: Display entityNot a string
-[16:31:51] [Server thread/ERROR]: Display entityNot a string
-[16:32:14] [Server thread/ERROR]: Display entityNot a string
-[16:33:08] [Server thread/ERROR]: Display entityNot a string
-[16:34:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{Damage:14,Unbreakable:1b,display:{Lore:['{"text":"Single Room"}'],Name:'{"text":"Single Room Key (103)","color":"gold"}'}}}
-[16:34:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{Damage:14,Unbreakable:1b,display:{Lore:['{"text":"Single Room"}'],Name:'{"text":"Single Room Key (103)","color":"gold"}'}}}
-[16:34:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{Damage:14,Unbreakable:1b,display:{Lore:['{"text":"Single Room"}'],Name:'{"text":"Single Room Key (103)","color":"gold"}'}}}
-[16:34:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{Damage:14,Unbreakable:1b,display:{Lore:['{"text":"Single Room"}'],Name:'{"text":"Single Room Key (103)","color":"gold"}'}}}
-[16:35:47] [Server thread/INFO]: Named entity class_1428['Luggage'/2437, l='ServerLevel[Bayville]', x=157.50, y=5.50, z=281.50] died: death.attack.genericKill
-[16:36:30] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{Damage:14,Unbreakable:1b,display:{Lore:['{"text":"Double Room"}'],Name:'{"text":"Double Room Key (201)","color":"gold"}'}}}
-[16:36:30] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/2479, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
-[16:36:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
-[16:36:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
-[16:36:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
-[16:37:00] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
-[16:37:00] [Server thread/INFO]: multiplayer.player.left
-[16:37:00] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
-[16:37:14] [Server thread/INFO]: Bbsito[/127.14.89.114:56911] logged in with entity id 2594 at (148.5217126198798, 11.0, 296.8245224143675)
-[16:37:14] [Server thread/INFO]: multiplayer.player.joined
-[16:37:14] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
-[16:37:14] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
-[16:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:37:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
-[16:37:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
-[16:37:30] [Server thread/INFO]: Steve lost connection: multiplayer.disconnect.duplicate_login
-[16:37:30] [Server thread/INFO]: multiplayer.player.left
-[16:37:30] [Server thread/INFO]: [voicechat] Disconnecting client Steve
-[16:37:32] [Server thread/INFO]: Steve[/127.199.41.178:38021] logged in with entity id 2612 at (54.31762015317877, 14.524424088213681, 219.6938753921927)
-[16:37:32] [Server thread/INFO]: multiplayer.player.joined
-[16:37:39] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
-[16:37:39] [Server thread/INFO]: [voicechat] Sent secret to Steve
-[16:37:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:37:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:37:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
-[16:39:42] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/2677, l='ServerLevel[Bayville]', x=44.48, y=15.20, z=74.50] died, message: 'death.attack.genericKill'
-[16:40:03] [Server thread/INFO]: Steve lost connection: multiplayer.disconnect.duplicate_login
-[16:40:03] [Server thread/INFO]: multiplayer.player.left
-[16:40:03] [Server thread/INFO]: [voicechat] Disconnecting client Steve
-[16:40:04] [Server thread/INFO]: Steve[/127.14.89.114:34005] logged in with entity id 2746 at (-52.01839773266105, 12.0, 249.93384383005684)
-[16:40:04] [Server thread/INFO]: multiplayer.player.joined
-[16:40:06] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
-[16:40:06] [Server thread/INFO]: [voicechat] Sent secret to Steve
-[16:40:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:40:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:40:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
-[16:40:20] [Server thread/INFO]: Steve lost connection: multiplayer.disconnect.generic
-[16:40:20] [Server thread/INFO]: multiplayer.player.left
-[16:40:20] [Server thread/INFO]: [voicechat] Disconnecting client Steve
-[16:40:31] [Server thread/ERROR]: Display entityNot a string
-[16:40:34] [Server thread/INFO]: Steve[/127.199.41.178:56355] logged in with entity id 2795 at (-52.01839773266105, 12.0, 249.93384383005684)
-[16:40:34] [Server thread/INFO]: multiplayer.player.joined
-[16:40:37] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
-[16:40:37] [Server thread/INFO]: [voicechat] Sent secret to Steve
-[16:40:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:40:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
-[16:40:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
-[16:42:30] [Server thread/INFO]: chat.type.admin
-[16:42:36] [Server thread/ERROR]: Display entityNot a string
-[16:42:40] [Server thread/INFO]: PEPE[/127.14.89.114:46355] logged in with entity id 2968 at (-32.5, 13.0, 194.5)
-[16:42:40] [Server thread/INFO]: multiplayer.player.joined
-[16:42:41] [Server thread/INFO]: chat.type.admin
-[16:42:42] [Server thread/INFO]: [voicechat] Received secret request of PEPE (18)
-[16:42:42] [Server thread/INFO]: [voicechat] Sent secret to PEPE
-[16:42:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7a067f19-b48d-3c6e-9039-8f37f64def1f
-[16:42:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7a067f19-b48d-3c6e-9039-8f37f64def1f
-[16:42:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PEPE (7a067f19-b48d-3c6e-9039-8f37f64def1f) successfully connected to voice chat
-[16:42:56] [Server thread/INFO]: chat.type.admin
-[16:42:57] [Server thread/ERROR]: Display entityNot a string
-[16:42:57] [Server thread/ERROR]: Display entityNot a string
-[16:42:57] [Server thread/ERROR]: Display entityNot a string
-[16:43:04] [Server thread/INFO]: chat.type.admin
-[16:43:31] [Server thread/INFO]: chat.type.admin
-[16:44:46] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/3241, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
-[16:44:49] [Server thread/INFO]: chat.type.advancement.goal
-[16:45:07] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.fisherman'/3418, l='ServerLevel[Bayville]', x=95.50, y=13.10, z=-58.50] died, message: 'death.attack.genericKill'
-[16:45:29] [Server thread/ERROR]: Display entityNot a string
-[16:45:46] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/3198, l='ServerLevel[Bayville]', x=156.50, y=16.20, z=-265.24] died, message: 'death.attack.genericKill'
-[16:46:22] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.weaponsmith'/3505, l='ServerLevel[Bayville]', x=48.50, y=13.00, z=274.50] died, message: 'death.attack.genericKill'
-[16:46:22] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cartographer'/3521, l='ServerLevel[Bayville]', x=46.50, y=12.90, z=262.50] died, message: 'death.attack.genericKill'
-[16:46:36] [Server thread/INFO]: chat.type.admin
-[16:46:41] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1928, l='ServerLevel[Bayville]', x=0.73, y=3.00, z=159.51] died, message: 'death.attack.genericKill'
-[16:46:41] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1929, l='ServerLevel[Bayville]', x=-24.57, y=3.00, z=158.23] died, message: 'death.attack.genericKill'
-[16:46:41] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1930, l='ServerLevel[Bayville]', x=0.79, y=3.00, z=158.65] died, message: 'death.attack.genericKill'
-[16:46:41] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1931, l='ServerLevel[Bayville]', x=3.22, y=3.00, z=159.51] died, message: 'death.attack.genericKill'
-[16:46:41] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1932, l='ServerLevel[Bayville]', x=3.78, y=3.00, z=160.16] died, message: 'death.attack.genericKill'
-[16:47:45] [Server thread/ERROR]: Display entityNot a string
-[16:47:56] [Server thread/INFO]: chat.type.admin
-[16:48:11] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.butcher'/3639, l='ServerLevel[Bayville]', x=186.50, y=11.90, z=268.50] died, message: 'death.attack.genericKill'
-[16:48:11] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/3656, l='ServerLevel[Bayville]', x=192.18, y=10.90, z=283.23] died, message: 'death.attack.genericKill'
-[16:48:11] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/3657, l='ServerLevel[Bayville]', x=183.55, y=11.90, z=265.50] died, message: 'death.attack.genericKill'
-[16:48:11] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cartographer'/3658, l='ServerLevel[Bayville]', x=183.51, y=10.90, z=261.30] died, message: 'death.attack.genericKill'
-[16:48:11] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/3659, l='ServerLevel[Bayville]', x=182.50, y=10.90, z=271.50] died, message: 'death.attack.genericKill'
-[16:48:11] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/3660, l='ServerLevel[Bayville]', x=213.24, y=10.90, z=244.50] died, message: 'death.attack.genericKill'
-[16:48:11] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/3661, l='ServerLevel[Bayville]', x=187.50, y=10.90, z=275.50] died, message: 'death.attack.genericKill'
-[16:48:11] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/3662, l='ServerLevel[Bayville]', x=193.50, y=10.90, z=254.50] died, message: 'death.attack.genericKill'
-[16:48:41] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/3663, l='ServerLevel[Bayville]', x=-20.50, y=12.90, z=20.50] died, message: 'death.attack.genericKill'
-[16:49:06] [Server thread/ERROR]: Display entityNot a string
-[16:49:21] [Server thread/INFO]: chat.type.admin
-[16:49:27] [Server thread/INFO]: chat.type.admin
-[16:50:02] [Server thread/INFO]: chat.type.admin
-[16:50:06] [Server thread/INFO]: chat.type.admin
-[16:52:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 7a067f19-b48d-3c6e-9039-8f37f64def1f timed out
-[16:52:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player PEPE
-[16:52:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to PEPE
-[16:52:11] [Server thread/INFO]: PEPE lost connection: disconnect.timeout
-[16:52:11] [Server thread/INFO]: multiplayer.player.left
-[16:52:11] [Server thread/INFO]: [voicechat] Disconnecting client PEPE
-[16:52:35] [Server thread/INFO]: chat.type.admin
-[16:52:35] [Server thread/INFO]: chat.type.admin
-[16:52:36] [Server thread/INFO]: chat.type.admin
-[16:52:39] [Server thread/INFO]: chat.type.admin
-[16:55:18] [Server thread/ERROR]: Display entityNot a string
-[16:55:18] [Server thread/ERROR]: Display entityNot a string
-[16:55:18] [Server thread/ERROR]: Display entityNot a string
+[16:59:53] [VoiceChatServerThread/INFO]: [voicechat] Binding to wildcard IP address
+[16:59:53] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at event-speeches.gl.at.ply.gg:2810:2810
+[16:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[16:59:55] [Server thread/INFO]: Bbsito[/127.14.89.114:53473] logged in with entity id 192 at (40.94721635614797, 11.0, 323.10911193635263)
+[16:59:55] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[16:59:55] [Server thread/INFO]: multiplayer.player.joined
+[16:59:55] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[16:59:55] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[16:59:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[16:59:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[16:59:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[16:59:57] [Server thread/INFO]: Steve[/127.199.41.178:57333] logged in with entity id 193 at (-425.6127487284243, 16.568749952316285, 195.0129562947158)
+[16:59:57] [Server thread/INFO]: multiplayer.player.joined
+[17:00:00] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
+[17:00:00] [Server thread/INFO]: [voicechat] Sent secret to Steve
+[17:00:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
+[17:00:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
+[17:00:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
+[17:00:08] [Server thread/INFO]: ALEX[/127.14.89.114:46187] logged in with entity id 441 at (-33.5, 13.0, 194.5)
+[17:00:08] [Server thread/INFO]: multiplayer.player.joined
+[17:00:09] [Server thread/INFO]: Imran330[/127.14.89.114:60347] logged in with entity id 444 at (-421.5092236310279, 16.768749952316284, 204.1992469921706)
+[17:00:09] [Server thread/INFO]: multiplayer.player.joined
+[17:00:09] [Server thread/INFO]: [voicechat] Received secret request of Imran330 (18)
+[17:00:09] [Server thread/INFO]: [voicechat] Sent secret to Imran330
+[17:00:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
+[17:00:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
+[17:00:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Imran330 (4b534696-23d8-32b0-8c62-0fe0fb8fc407) successfully connected to voice chat
+[17:00:11] [Server thread/INFO]: [voicechat] Received secret request of ALEX (18)
+[17:00:11] [Server thread/INFO]: [voicechat] Sent secret to ALEX
+[17:00:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3ed83c4c-c325-3481-ae8d-74d03d7b33fa
+[17:00:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3ed83c4c-c325-3481-ae8d-74d03d7b33fa
+[17:00:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ALEX (3ed83c4c-c325-3481-ae8d-74d03d7b33fa) successfully connected to voice chat
+[17:01:26] [Server thread/ERROR]: Display entityNot a string
+[17:01:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.butcher'/478, l='ServerLevel[Bayville]', x=186.50, y=11.90, z=268.50] died, message: 'death.attack.genericKill'
+[17:01:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.fisherman'/495, l='ServerLevel[Bayville]', x=193.50, y=10.90, z=249.50] died, message: 'death.attack.genericKill'
+[17:01:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/496, l='ServerLevel[Bayville]', x=181.50, y=10.90, z=275.50] died, message: 'death.attack.genericKill'
+[17:01:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.fisherman'/497, l='ServerLevel[Bayville]', x=189.93, y=11.82, z=271.50] died, message: 'death.attack.genericKill'
+[17:01:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cartographer'/498, l='ServerLevel[Bayville]', x=196.50, y=10.90, z=250.50] died, message: 'death.attack.genericKill'
+[17:01:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/499, l='ServerLevel[Bayville]', x=198.50, y=10.90, z=250.50] died, message: 'death.attack.genericKill'
+[17:01:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/500, l='ServerLevel[Bayville]', x=181.50, y=10.90, z=243.50] died, message: 'death.attack.genericKill'
+[17:01:29] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cartographer'/501, l='ServerLevel[Bayville]', x=193.50, y=10.90, z=254.50] died, message: 'death.attack.genericKill'
+[17:01:43] [Server thread/INFO]: chat.type.admin
+[17:01:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
+[17:01:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
+[17:01:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
+[17:01:55] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
+[17:01:55] [Server thread/INFO]: multiplayer.player.left
+[17:01:55] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
+[17:01:55] [Server thread/WARN]: handleDisconnection() called twice
+[17:02:06] [Server thread/INFO]: Bbsito[/127.14.89.114:59327] logged in with entity id 507 at (176.30000001192093, 12.0, 221.74570307488224)
+[17:02:06] [Server thread/INFO]: multiplayer.player.joined
+[17:02:06] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[17:02:06] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[17:02:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:02:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:02:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[17:02:53] [Server thread/INFO]: chat.type.advancement.goal
+[17:03:53] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/630, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
+[17:04:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
+[17:04:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
+[17:04:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
+[17:04:06] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
+[17:04:06] [Server thread/INFO]: multiplayer.player.left
+[17:04:06] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
+[17:04:07] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/645, l='ServerLevel[Bayville]', x=22.91, y=15.20, z=78.80] died, message: 'death.attack.genericKill'
+[17:04:10] [Server thread/INFO]: chat.type.admin
+[17:04:25] [Server thread/INFO]: Bbsito[/127.14.89.114:33301] logged in with entity id 736 at (174.47114729939844, 11.0, 232.5984421242845)
+[17:04:25] [Server thread/INFO]: multiplayer.player.joined
+[17:04:25] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[17:04:25] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[17:04:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:04:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:04:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[17:04:38] [Server thread/INFO]: chat.type.admin
+[17:05:15] [Server thread/INFO]: chat.type.admin
+[17:05:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
+[17:05:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
+[17:05:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
+[17:05:40] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
+[17:05:40] [Server thread/INFO]: multiplayer.player.left
+[17:05:40] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
+[17:05:44] [Server thread/INFO]: chat.type.admin
+[17:05:45] [Server thread/INFO]: Bbsito[/127.14.89.114:59833] logged in with entity id 813 at (174.47114729939844, 11.0, 232.5984421242845)
+[17:05:45] [Server thread/INFO]: multiplayer.player.joined
+[17:05:45] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[17:05:45] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[17:05:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:05:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:05:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[17:06:02] [Server thread/INFO]: chat.type.admin
+[17:06:05] [Server thread/INFO]: chat.type.admin
+[17:06:07] [Server thread/ERROR]: Display entityNot a string
+[17:06:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.butcher'/874, l='ServerLevel[Bayville]', x=186.50, y=11.90, z=268.50] died, message: 'death.attack.genericKill'
+[17:06:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/893, l='ServerLevel[Bayville]', x=183.50, y=10.90, z=269.50] died, message: 'death.attack.genericKill'
+[17:06:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/894, l='ServerLevel[Bayville]', x=183.50, y=10.90, z=264.50] died, message: 'death.attack.genericKill'
+[17:06:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cartographer'/895, l='ServerLevel[Bayville]', x=197.50, y=10.90, z=264.50] died, message: 'death.attack.genericKill'
+[17:06:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/896, l='ServerLevel[Bayville]', x=214.50, y=10.90, z=246.50] died, message: 'death.attack.genericKill'
+[17:06:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/897, l='ServerLevel[Bayville]', x=181.50, y=10.90, z=272.50] died, message: 'death.attack.genericKill'
+[17:06:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.farmer'/898, l='ServerLevel[Bayville]', x=189.50, y=10.90, z=262.50] died, message: 'death.attack.genericKill'
+[17:06:10] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cartographer'/899, l='ServerLevel[Bayville]', x=193.50, y=10.90, z=254.50] died, message: 'death.attack.genericKill'
+[17:06:15] [Server thread/INFO]: chat.type.admin
+[17:06:47] [Server thread/ERROR]: Display entityNot a string
+[17:06:50] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.butcher'/949, l='ServerLevel[Bayville]', x=186.50, y=11.90, z=268.50] died, message: 'death.attack.genericKill'
+[17:06:50] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/967, l='ServerLevel[Bayville]', x=204.50, y=10.90, z=249.50] died, message: 'death.attack.genericKill'
+[17:06:50] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.farmer'/968, l='ServerLevel[Bayville]', x=201.50, y=10.90, z=252.50] died, message: 'death.attack.genericKill'
+[17:06:50] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/969, l='ServerLevel[Bayville]', x=185.82, y=10.90, z=247.70] died, message: 'death.attack.genericKill'
+[17:06:50] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.fisherman'/970, l='ServerLevel[Bayville]', x=209.50, y=10.90, z=245.50] died, message: 'death.attack.genericKill'
+[17:06:50] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/971, l='ServerLevel[Bayville]', x=191.50, y=10.90, z=256.50] died, message: 'death.attack.genericKill'
+[17:06:50] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/972, l='ServerLevel[Bayville]', x=188.50, y=10.90, z=272.50] died, message: 'death.attack.genericKill'
+[17:06:50] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.cartographer'/973, l='ServerLevel[Bayville]', x=188.59, y=10.90, z=254.66] died, message: 'death.attack.genericKill'
+[17:07:41] [Server thread/INFO]: chat.type.admin
+[17:09:25] [Server thread/INFO]: chat.type.admin
+[17:11:00] [Server thread/INFO]: chat.type.admin
+[17:11:18] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.butcher'/1354, l='ServerLevel[Bayville]', x=-103.50, y=15.00, z=85.50] died, message: 'death.attack.genericKill'
+[17:12:05] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1325, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
+[17:12:16] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1376, l='ServerLevel[Bayville]', x=22.91, y=15.20, z=78.80] died, message: 'death.attack.genericKill'
+[17:14:07] [Server thread/ERROR]: Display entityNot a string
+[17:14:10] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:17] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:14:18] [Server thread/ERROR]: Display entityNot a string
+[17:16:50] [Server thread/INFO]: chat.type.admin
+[17:17:25] [Server thread/INFO]: chat.type.admin
+[17:17:28] [Server thread/WARN]: Bbsito moved too quickly! -10.078571925756087,0.8322033533667472,-0.38823797578785957
+[17:17:29] [Server thread/INFO]: chat.type.admin
+[17:17:35] [Server thread/ERROR]: Display entityNot a string
+[17:17:45] [Server thread/INFO]: chat.type.admin
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:14] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:15] [Server thread/ERROR]: Display entityNot a string
+[17:18:20] [Server thread/INFO]: chat.type.admin
+[17:18:24] [Server thread/INFO]: chat.type.admin
+[17:18:32] [Server thread/ERROR]: Display entityNot a string
+[17:18:32] [Server thread/ERROR]: Display entityNot a string
+[17:18:32] [Server thread/ERROR]: Display entityNot a string
+[17:18:33] [Server thread/INFO]: chat.type.admin
+[17:18:56] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/2722, l='ServerLevel[Bayville]', x=57.14, y=13.00, z=126.87] died, message: 'death.attack.genericKill'
+[17:18:56] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/2724, l='ServerLevel[Bayville]', x=40.84, y=13.00, z=128.77] died, message: 'death.attack.genericKill'
+[17:19:00] [Server thread/INFO]: chat.type.admin
+[17:19:04] [Server thread/INFO]: chat.type.admin
+[17:20:20] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/2913, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
+[17:20:24] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/2865, l='ServerLevel[Bayville]', x=22.91, y=15.20, z=78.80] died, message: 'death.attack.genericKill'
+[17:20:38] [Server thread/INFO]: chat.type.admin
+[17:22:17] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.farmer'/3408, l='ServerLevel[Bayville]', x=110.50, y=15.00, z=-149.50] died, message: 'death.attack.genericKill'
+[17:22:17] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.librarian'/3409, l='ServerLevel[Bayville]', x=111.50, y=16.00, z=-161.50] died, message: 'death.attack.genericKill'
+[17:22:17] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/3410, l='ServerLevel[Bayville]', x=101.50, y=16.00, z=-140.50] died, message: 'death.attack.genericKill'
+[17:22:17] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.farmer'/3411, l='ServerLevel[Bayville]', x=87.50, y=17.90, z=-144.50] died, message: 'death.attack.genericKill'
+[17:22:17] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.farmer'/3412, l='ServerLevel[Bayville]', x=103.50, y=17.00, z=-162.50] died, message: 'death.attack.genericKill'
+[17:23:58] [Server thread/INFO]: death.attack.anvil
+[17:24:07] [Server thread/INFO]: chat.type.admin
+[17:25:31] [Server thread/INFO]: chat.type.advancement.task
+[17:25:43] [Server thread/ERROR]: Display entityNot a string
+[17:25:43] [Server thread/ERROR]: Display entityNot a string
+[17:25:43] [Server thread/ERROR]: Display entityNot a string
+[17:26:37] [Server thread/INFO]: chat.type.admin
+[17:26:53] [Server thread/INFO]: chat.type.admin
+[17:27:00] [Server thread/INFO]: chat.type.admin
+[17:28:19] [Server thread/INFO]: Villager class_1646['Farmer Jerry'/4290, l='ServerLevel[Bayville]', x=673.50, y=13.00, z=-401.50] died, message: 'death.attack.genericKill'
+[17:28:19] [Server thread/INFO]: Named entity class_1646['Farmer Jerry'/4290, l='ServerLevel[Bayville]', x=673.50, y=13.00, z=-401.50] died: death.attack.genericKill
+[17:28:19] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/4292, l='ServerLevel[Bayville]', x=677.20, y=13.00, z=-408.50] died, message: 'death.attack.genericKill'
+[17:28:19] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.toolsmith'/4293, l='ServerLevel[Bayville]', x=680.50, y=12.80, z=-408.50] died, message: 'death.attack.genericKill'
+[17:28:22] [Server thread/ERROR]: Display entityNot a string
+[17:28:22] [Server thread/ERROR]: Display entityNot a string
+[17:28:22] [Server thread/ERROR]: Display entityNot a string
+[17:28:31] [Server thread/ERROR]: Display entityNot a string

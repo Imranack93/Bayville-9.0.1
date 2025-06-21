@@ -1,0 +1,165 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-06-21 17:19:31 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/crown": {
+    "criteria": {
+      "has_emerald": "2025-06-21 17:00:32 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/black_briefcase_to_briefcase": {
+    "criteria": {
+      "has_black_briefcase": "2025-06-21 17:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-21 17:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:bsroleplay/got_police_set": {
+    "criteria": {
+      "got_police_leggings": "2025-06-21 17:02:53 +0000",
+      "got_police_boots": "2025-06-21 17:02:53 +0000",
+      "got_handcuffs": "2025-06-21 17:02:52 +0000",
+      "got_police_helmet": "2025-06-21 17:02:52 +0000",
+      "got_police_baton": "2025-06-21 17:02:52 +0000",
+      "got_police_chestplate": "2025-06-21 17:02:53 +0000"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-21 17:00:08 +0000"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-21 17:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-21 17:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-21 17:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-21 17:00:32 +0000"
+    },
+    "done": true
+  },
+  "ketket_shops:sp_adv_1": {
+    "criteria": {
+      "requirement": "2025-06-21 17:00:09 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/police_chestplate": {
+    "criteria": {
+      "has_police_baton": "2025-06-21 17:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-21 17:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-21 17:10:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-06-21 17:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-21 17:10:42 +0000"
+    },
+    "done": true
+  },
+  "ketkets:main": {
+    "criteria": {
+      "requirement": "2025-06-21 17:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-21 17:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-21 17:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-06-21 17:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2025-06-21 17:22:48 +0000",
+      "minecraft:plains": "2025-06-21 17:00:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-21 17:10:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-06-21 17:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-21 17:13:09 +0000"
+    },
+    "done": false
+  },
+  "bsroleplay:recipes/misc/black_briefcase_to_violet_briefcase": {
+    "criteria": {
+      "has_black_briefcase": "2025-06-21 17:02:53 +0000"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-21 17:00:08 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
