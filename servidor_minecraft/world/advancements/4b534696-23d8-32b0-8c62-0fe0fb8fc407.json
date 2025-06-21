@@ -144,5 +144,227 @@
     },
     "done": true
   },
+  "minecraft:bsroleplay/got_roleplay_core": {
+    "criteria": {
+      "got_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/halo": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/handcuffs": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/protection_leggings": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/cowboy_hat": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/lawyer_boots_purple_2": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/lawyer_blackblue_chestplate_1": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/pirate_helmet": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/protection_boots": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/lawyer_leggings_purple_2": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/briefcase": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/police_leggings": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/protection_helmet": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/civic_crown": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/dream_mask": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/lawyer_blackgold_chestplate_1": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/pirate_leggings": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/police_baton": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/tiny_banduty": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/roman_toga": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/lawyer_purplered_chestplate_1": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/judge_hammer": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/police_boots": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/lawyer_boots_black_1": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/pirate_chestplate": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/lawyer_leggings_black_1": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/dealer_mask": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/lawyer_blackred_chestplate_1": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/shop": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/mini_crown": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/bunny_mask": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/police_helmet": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/fedora": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/neanderthal_chestplate": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/protection_chestplate": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/poncho": {
+    "criteria": {
+      "has_roleplay_core": "2025-06-21 10:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:bsroleplay/be_supreme_player": {
+    "criteria": {
+      "got_dune_caller": "2025-06-21 10:09:20 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3700
 }

@@ -1,0 +1,140 @@
+---- Minecraft Crash Report ----
+// Surprise! Haha. Well, this is awkward.
+
+Time: 2025-06-21 10:09:21
+Description: Exception in server tick loop
+
+java.lang.ExceptionInInitializerError
+	at banduty.bsroleplay.entity.custom.SandstormProjectileEntity.<init>(SandstormProjectileEntity.java:34)
+	at banduty.bsroleplay.item.custom.item.DuneCaller.method_7836(DuneCaller.java:27)
+	at net.minecraft.class_1799.method_7913(class_1799.java:312)
+	at net.minecraft.class_3225.method_14256(class_3225.java:295)
+	at net.minecraft.class_3244.method_12065(class_3244.java:1171)
+	at net.minecraft.class_2886.method_12550(class_2886.java:29)
+	at net.minecraft.class_2886.method_11054(class_2886.java:7)
+	at net.minecraft.class_2600.method_11072(class_2600.java:24)
+	at net.minecraft.class_3738.run(class_3738.java:18)
+	at net.minecraft.class_1255.method_18859(class_1255.java:156)
+	at net.minecraft.class_4093.method_18859(class_4093.java:23)
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:797)
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:165)
+	at net.minecraft.class_1255.method_16075(class_1255.java:130)
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:779)
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:773)
+	at net.minecraft.class_1255.method_18857(class_1255.java:139)
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:758)
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:687)
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.IllegalStateException: This registry can't create intrusive holders
+	at net.minecraft.class_2370.method_40269(class_2370.java:371)
+	at net.minecraft.class_1299.<init>(class_1299.java:169)
+	at net.minecraft.class_1299$class_1300.method_5905(class_1299.java:775)
+	at net.fabricmc.fabric.api.object.builder.v1.entity.FabricEntityTypeBuilder.build(FabricEntityTypeBuilder.java:342)
+	at banduty.bsroleplay.entity.ModEntities.<clinit>(ModEntities.java:18)
+	... 21 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.4
+	Minecraft Version ID: 1.20.4
+	Operating System: Linux (amd64) version 6.8.0-1027-azure
+	Java Version: 21.0.7, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1332465744 bytes (1270 MiB) / 2147483648 bytes (2048 MiB) up to 10737418240 bytes (10240 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7995.00
+	Virtual memory used (MB): 5266.90
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx10G
+	Fabric Mods: 
+		architectury: Architectury 11.1.17
+		bsroleplay: BsRolePlay 1.7.5-1.20.4
+		camerapture: Camerapture 1.6.4
+			io_github_darkxanter_webp-imageio: webp-imageio 0.3.2
+		cloth-config: Cloth Config v13 13.0.138
+			cloth-basic-math: cloth-basic-math 0.6.1
+		customnpcs: Custom NPCs 1.0.0
+		entityculling: EntityCulling 1.7.4
+		fabric-api: Fabric API 0.97.2+1.20.4
+			fabric-api-base: Fabric API Base 0.4.37+78d798af4f
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.50+82b1bb3e4f
+			fabric-biome-api-v1: Fabric Biome API (v1) 13.0.17+78d798af4f
+			fabric-block-api-v1: Fabric Block API (v1) 1.0.17+3e2216cb4f
+			fabric-block-view-api-v2: Fabric BlockView API (v2) 1.0.5+78d798af4f
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.42+f71b366f4f
+			fabric-command-api-v2: Fabric Command API (v2) 2.2.21+78d798af4f
+			fabric-commands-v0: Fabric Commands (v0) 0.2.59+df3654b34f
+			fabric-containers-v0: Fabric Containers (v0) 0.1.88+df3654b34f
+			fabric-content-registries-v0: Fabric Content Registries (v0) 5.0.16+78d798af4f
+			fabric-convention-tags-v1: Fabric Convention Tags 1.5.11+78d798af4f
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.24+78d798af4f
+			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 1.1.5+b90db5744f
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 13.2.6+5c0133444f
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 2.1.63+6605d1a84f
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.6.2+09fc25014f
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.7.2+389931eb4f
+			fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.75+df3654b34f
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.47+78d798af4f
+			fabric-item-api-v1: Fabric Item API (v1) 2.3.0+bcdd12964f
+			fabric-item-group-api-v1: Fabric Item Group API (v1) 4.0.27+ee30b13a4f
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.3.1+a67ffb5d4f
+			fabric-loot-api-v2: Fabric Loot API (v2) 2.1.10+78d798af4f
+			fabric-message-api-v1: Fabric Message API (v1) 6.0.6+78d798af4f
+			fabric-mining-level-api-v1: Fabric Mining Level API (v1) 2.1.66+78d798af4f
+			fabric-networking-api-v1: Fabric Networking API (v1) 3.1.9+6abb6a4b4f
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 13.1.0+dba1195c4f
+			fabric-particles-v1: Fabric Particles (v1) 1.1.8+78d798af4f
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 2.0.22+78d798af4f
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 4.0.21+ee30b13a4f
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.43+73761d2e4f
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.1.2+e761c6694f
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 2.3.15+78d798af4f
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.11.21+ee30b13a4f
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.57+78d798af4f
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 4.0.12+90f2d7b14f
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 5.0.15+78d798af4f
+		fabricloader: Fabric Loader 0.16.3
+			mixinextras: MixinExtras 0.4.1
+		ferritecore: FerriteCore 6.0.3
+		geckolib: GeckoLib 4 4.4.4
+			com_eliotlash_mclib_mclib: mclib 20
+		invview: InvView 1.4.14-1.20.4+
+			fabric-permissions-api-v0: fabric-permissions-api 0.2-SNAPSHOT
+			sgui: sgui 1.3.0+1.20.2
+		java: OpenJDK 64-Bit Server VM 21
+		lexiconfig: Lexiconfig 1.4.18
+			com_electronwill_night-config_core: core 3.6.6
+			com_electronwill_night-config_toml: toml 3.6.6
+		lithium: Lithium 0.12.1
+		minecraft: Minecraft 1.20.4
+		mr_guns: Guns++ 4.4
+		mr_ketkets_playershops: Player Shops 1
+		pfm: Paladin's Furniture 1.4.2
+		simpleradio: Simple Radio 3.4.6
+		voicechat: Simple Voice Chat 1.20.4-2.5.22
+	Server Running: true
+	Player Count: 1 / 20; [class_3222['Imran330'/770, l='ServerLevel[Bayville]', x=-134.17, y=12.00, z=323.61]]
+	Data Packs: vanilla, file/bayville.zip (incompatible), fabric, bsroleplay, camerapture, customnpcs (incompatible), fabric-convention-tags-v1, mr_guns (incompatible), mr_ketkets_playershops, pfm, simpleradio (incompatible), pfm-data-resources
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)

@@ -1,5 +1,5 @@
-[09:51:00] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[09:51:00] [main/INFO]: Loading 65 mods:
+[12:59:31] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[12:59:32] [main/INFO]: Loading 65 mods:
 	- architectury 11.1.17
 	- bsroleplay 1.7.5-1.20.4
 	- camerapture 1.6.4
@@ -80,134 +80,120 @@
 	   \-- mixinextras 0.4.1
 	- voicechat 1.20.4-2.5.22
 	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
-[09:51:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Bayville-9.0.1/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[09:51:00] [main/INFO]: Compatibility level set to JAVA_16
-[09:51:00] [main/INFO]: Compatibility level set to JAVA_17
-[09:51:01] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 1 override(s) found
-[09:51:01] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[09:51:01] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity)
-[09:51:01] [main/WARN]: Error loading class: net/blay09/mods/cookingforblockheads/crafting/KitchenImpl (java.lang.ClassNotFoundException: net/blay09/mods/cookingforblockheads/crafting/KitchenImpl)
-[09:51:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[09:51:08] [main/INFO]: Registering Item Groups for bsroleplay
-[09:51:08] [main/INFO]: Registering Mod Items for bsroleplay
-[09:51:08] [main/INFO]: Registering Sounds for bsroleplay
-[09:51:08] [main/INFO]: Registering Screen Handlers for bsroleplay
-[09:51:08] [main/INFO]: Registering ModBlocks for bsroleplay
-[09:51:08] [main/ERROR]: No data fixer registered for picture_frame
-[09:51:08] [main/ERROR]: No data fixer registered for tileblockanvil
-[09:51:08] [main/ERROR]: No data fixer registered for tilenpcborder
-[09:51:08] [main/ERROR]: No data fixer registered for tilenpcbuilder
-[09:51:08] [main/ERROR]: No data fixer registered for tilenpccopy
-[09:51:08] [main/ERROR]: No data fixer registered for tilemailbox
-[09:51:08] [main/ERROR]: No data fixer registered for tileredstoneblock
-[09:51:08] [main/ERROR]: No data fixer registered for tilenpcscripted
-[09:51:08] [main/ERROR]: No data fixer registered for tilenpcscripteddoor
-[09:51:08] [main/ERROR]: No data fixer registered for tilewaypoint
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:npcpony
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:npccrystal
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:npcslime
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:npcdragon
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:npcgolem
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:customnpc
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:customnpc64x32
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:customnpcalex
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:customnpcclassic
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:customnpcchairmount
-[09:51:08] [main/ERROR]: No data fixer registered for customnpcs:customnpcprojectile
-[09:51:08] [main/INFO]: Beginning lexicon shelving!
-[09:51:08] [main/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@1f4a9053!
-[09:51:08] [main/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@18338e54!
-[09:51:08] [main/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@1f4a9053!
-[09:51:09] [main/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@18338e54!
-[09:51:09] [main/INFO]: Lexiconfig cataloging completed!
-[09:51:09] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Cached update file detected, using that!
-[09:51:09] [main/ERROR]: No data fixer registered for chair
-[09:51:09] [main/ERROR]: No data fixer registered for wire
-[09:51:09] [main/INFO]: [voicechat] Compatibility version 18
-[09:51:09] [main/INFO]: [voicechat] Loading plugins
-[09:51:09] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[09:51:09] [main/INFO]: [voicechat] Initializing plugins
-[09:51:09] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[09:51:09] [main/INFO]: [voicechat] Registering events for 'simpleradio'
-[09:51:09] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
-[09:51:09] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[09:51:09] [main/WARN]: resource-pack-id missing, using default of 055f64aa-37df-344f-81fb-0f27ede395ab
-[09:51:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[09:51:10] [main/INFO]: Data Hash for Game Data and Variant List matched, skipping generation
-[09:51:11] [Worker-Main-2/ERROR]: Couldn't load tag minecraft:non_underwater_blocks as it is missing following references: minecraft:grass (from mr_guns)
-[09:51:11] [main/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/wither}.pools[1].entries[0]: Unknown loot table called vanilla:entities/wither
-[09:51:11] [main/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[09:51:12] [main/INFO]: Loaded 9 recipes
-[09:51:12] [main/INFO]: Loaded 1627 advancements
-[09:51:13] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.452 ms
-[09:51:13] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[09:51:13] [Server thread/INFO]: Loading properties
-[09:51:13] [Server thread/INFO]: Default game type: SURVIVAL
-[09:51:13] [Server thread/INFO]: Generating keypair
-[09:51:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:51:13] [Server thread/INFO]: Using epoll channel type
-[09:51:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:51:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:51:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:51:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:51:13] [Server thread/INFO]: Preparing level "world"
-[09:51:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:51:16] [Worker-Main-2/INFO]: menu.preparingSpawn
-[09:51:16] [Worker-Main-2/INFO]: menu.preparingSpawn
-[09:51:17] [Worker-Main-2/INFO]: menu.preparingSpawn
-[09:51:17] [Worker-Main-3/INFO]: menu.preparingSpawn
-[09:51:17] [Worker-Main-1/INFO]: menu.preparingSpawn
-[09:51:17] [Worker-Main-3/INFO]: menu.preparingSpawn
-[09:51:17] [Worker-Main-3/INFO]: menu.preparingSpawn
-[09:51:17] [Worker-Main-1/INFO]: menu.preparingSpawn
-[09:51:17] [Worker-Main-1/INFO]: menu.preparingSpawn
-[09:51:18] [Server thread/INFO]: menu.preparingSpawn
-[09:51:18] [Server thread/INFO]: Time elapsed: 4617 ms
-[09:51:18] [Server thread/INFO]: Done (4.879s)! For help, type "help"
-[09:51:18] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[09:51:18] [VoiceChatServerThread/ERROR]: [voicechat] Failed to parse bind IP address 'event-speeches.gl.at.ply.gg:2810'
+[12:59:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Bayville-9.0.1/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:59:34] [main/INFO]: Compatibility level set to JAVA_16
+[12:59:34] [main/INFO]: Compatibility level set to JAVA_17
+[12:59:34] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 1 override(s) found
+[12:59:35] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[12:59:35] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/entity/block/CookingPotBlockEntity)
+[12:59:35] [main/WARN]: Error loading class: net/blay09/mods/cookingforblockheads/crafting/KitchenImpl (java.lang.ClassNotFoundException: net/blay09/mods/cookingforblockheads/crafting/KitchenImpl)
+[12:59:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[12:59:44] [main/INFO]: Registering Item Groups for bsroleplay
+[12:59:44] [main/INFO]: Registering Mod Items for bsroleplay
+[12:59:44] [main/INFO]: Registering Sounds for bsroleplay
+[12:59:44] [main/INFO]: Registering Screen Handlers for bsroleplay
+[12:59:44] [main/INFO]: Registering ModBlocks for bsroleplay
+[12:59:44] [main/ERROR]: No data fixer registered for picture_frame
+[12:59:44] [main/ERROR]: No data fixer registered for tileblockanvil
+[12:59:44] [main/ERROR]: No data fixer registered for tilenpcborder
+[12:59:44] [main/ERROR]: No data fixer registered for tilenpcbuilder
+[12:59:44] [main/ERROR]: No data fixer registered for tilenpccopy
+[12:59:44] [main/ERROR]: No data fixer registered for tilemailbox
+[12:59:44] [main/ERROR]: No data fixer registered for tileredstoneblock
+[12:59:44] [main/ERROR]: No data fixer registered for tilenpcscripted
+[12:59:44] [main/ERROR]: No data fixer registered for tilenpcscripteddoor
+[12:59:44] [main/ERROR]: No data fixer registered for tilewaypoint
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:npcpony
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:npccrystal
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:npcslime
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:npcdragon
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:npcgolem
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:customnpc
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:customnpc64x32
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:customnpcalex
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:customnpcclassic
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:customnpcchairmount
+[12:59:44] [main/ERROR]: No data fixer registered for customnpcs:customnpcprojectile
+[12:59:45] [main/INFO]: Beginning lexicon shelving!
+[12:59:45] [main/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@707d1aa0!
+[12:59:45] [main/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@236d9c49!
+[12:59:45] [main/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@707d1aa0!
+[12:59:45] [main/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@236d9c49!
+[12:59:45] [main/INFO]: Lexiconfig cataloging completed!
+[12:59:45] [ForkJoinPool.commonPool-worker-1/INFO]: [Paladin's Furniture Update Check] Cached update file detected, using that!
+[12:59:45] [main/ERROR]: No data fixer registered for chair
+[12:59:46] [main/ERROR]: No data fixer registered for wire
+[12:59:46] [main/INFO]: [voicechat] Compatibility version 18
+[12:59:46] [main/INFO]: [voicechat] Loading plugins
+[12:59:46] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[12:59:46] [main/INFO]: [voicechat] Initializing plugins
+[12:59:46] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[12:59:46] [main/INFO]: [voicechat] Registering events for 'simpleradio'
+[12:59:46] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
+[12:59:46] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[12:59:46] [main/WARN]: resource-pack-id missing, using default of 055f64aa-37df-344f-81fb-0f27ede395ab
+[12:59:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:59:48] [main/INFO]: Data Hash for Game Data and Variant List matched, skipping generation
+[12:59:49] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:non_underwater_blocks as it is missing following references: minecraft:grass (from mr_guns)
+[12:59:50] [main/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/wither}.pools[1].entries[0]: Unknown loot table called vanilla:entities/wither
+[12:59:50] [main/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[12:59:50] [main/INFO]: Loaded 9 recipes
+[12:59:50] [main/INFO]: Loaded 1627 advancements
+[12:59:52] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.900 ms
+[12:59:52] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[12:59:52] [Server thread/INFO]: Loading properties
+[12:59:52] [Server thread/INFO]: Default game type: SURVIVAL
+[12:59:52] [Server thread/INFO]: Generating keypair
+[12:59:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:59:52] [Server thread/INFO]: Using epoll channel type
+[12:59:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:59:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:59:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:59:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:59:52] [Server thread/INFO]: Preparing level "world"
+[12:59:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:59:57] [Worker-Main-2/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-3/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-1/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-1/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-2/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-2/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-3/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-3/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-3/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-2/INFO]: menu.preparingSpawn
+[12:59:57] [Worker-Main-2/INFO]: menu.preparingSpawn
+[12:59:58] [Worker-Main-3/INFO]: menu.preparingSpawn
+[12:59:58] [Worker-Main-2/INFO]: menu.preparingSpawn
+[12:59:59] [Server thread/INFO]: Time elapsed: 6326 ms
+[12:59:59] [Server thread/INFO]: Done (6.667s)! For help, type "help"
+[12:59:59] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[12:59:59] [VoiceChatServerThread/ERROR]: [voicechat] Failed to parse bind IP address 'event-speeches.gl.at.ply.gg:2810'
 java.net.UnknownHostException: event-speeches.gl.at.ply.gg:2810: invalid IPv6 address literal
 	at java.net.InetAddress.invalidIPv6LiteralException(InetAddress.java:1693) ~[?:?]
 	at java.net.InetAddress.getAllByName(InetAddress.java:1663) ~[?:?]
 	at java.net.InetAddress.getByName(InetAddress.java:1568) ~[?:?]
 	at de.maxhenkel.voicechat.plugins.impl.VoicechatSocketImpl.open(VoicechatSocketImpl.java:25) ~[voicechat-fabric-1.20.4-2.5.22.jar:?]
 	at de.maxhenkel.voicechat.voice.server.Server.run(Server.java:102) ~[voicechat-fabric-1.20.4-2.5.22.jar:?]
-[09:51:18] [VoiceChatServerThread/INFO]: [voicechat] Binding to wildcard IP address
-[09:51:18] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at event-speeches.gl.at.ply.gg:2810:2810
-[09:51:41] [Server thread/INFO]: Imran330[/127.14.89.114:49303] logged in with entity id 399 at (34.80385506953052, 25.0, 166.56621974676185)
-[09:51:42] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[09:51:42] [Server thread/INFO]: multiplayer.player.joined
-[09:51:43] [Server thread/INFO]: [voicechat] Received secret request of Imran330 (18)
-[09:51:43] [Server thread/INFO]: [voicechat] Sent secret to Imran330
-[09:51:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
-[09:51:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
-[09:51:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Imran330 (4b534696-23d8-32b0-8c62-0fe0fb8fc407) successfully connected to voice chat
-[09:54:06] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.toolsmith'/526, l='ServerLevel[Bayville]', x=-41.50, y=14.00, z=120.50] died, message: 'death.attack.genericKill'
-[09:54:52] [Server thread/INFO]: chat.type.admin
-[09:55:16] [Server thread/INFO]: Notch[/127.139.119.62:33839] logged in with entity id 604 at (-35.5, 14.0, 163.5)
-[09:55:16] [Server thread/INFO]: multiplayer.player.joined
-[09:55:17] [Server thread/INFO]: [voicechat] Received secret request of Notch (18)
-[09:55:17] [Server thread/INFO]: [voicechat] Sent secret to Notch
-[09:55:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b50ad385-829d-3141-a216-7e7d7539ba7f
-[09:55:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b50ad385-829d-3141-a216-7e7d7539ba7f
-[09:55:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Notch (b50ad385-829d-3141-a216-7e7d7539ba7f) successfully connected to voice chat
-[09:58:17] [Server thread/INFO]: Notch lost connection: multiplayer.disconnect.generic
-[09:58:17] [Server thread/INFO]: multiplayer.player.left
-[09:58:17] [Server thread/INFO]: [voicechat] Disconnecting client Notch
-[09:58:31] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/716, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
-[09:58:35] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/680, l='ServerLevel[Bayville]', x=22.91, y=15.20, z=78.80] died, message: 'death.attack.genericKill'
-[09:59:35] [Server thread/INFO]: Imran330 lost connection: multiplayer.disconnect.generic
-[09:59:35] [Server thread/INFO]: multiplayer.player.left
-[09:59:35] [Server thread/INFO]: [voicechat] Disconnecting client Imran330
-[10:00:15] [Server thread/INFO]: Notch[/127.139.119.62:41315] logged in with entity id 760 at (-17.92356654346029, 12.5, 244.88547491831304)
-[10:00:15] [Server thread/INFO]: multiplayer.player.joined
-[10:00:17] [Server thread/INFO]: [voicechat] Received secret request of Notch (18)
-[10:00:17] [Server thread/INFO]: [voicechat] Sent secret to Notch
-[10:00:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b50ad385-829d-3141-a216-7e7d7539ba7f
-[10:00:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b50ad385-829d-3141-a216-7e7d7539ba7f
-[10:00:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Notch (b50ad385-829d-3141-a216-7e7d7539ba7f) successfully connected to voice chat
-[10:00:24] [Server thread/INFO]: Notch lost connection: multiplayer.disconnect.generic
-[10:00:24] [Server thread/INFO]: multiplayer.player.left
-[10:00:24] [Server thread/INFO]: [voicechat] Disconnecting client Notch
-[10:00:59] [Server thread/INFO]: Imran330[/127.14.89.114:39577] logged in with entity id 770 at (-72.30000001192093, 13.0, 268.16126414978277)
-[10:00:59] [Server thread/INFO]: multiplayer.player.joined
+[12:59:59] [VoiceChatServerThread/INFO]: [voicechat] Binding to wildcard IP address
+[12:59:59] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at event-speeches.gl.at.ply.gg:2810:2810
+[13:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[13:00:05] [Server thread/INFO]: Imran330[/127.14.89.114:43057] logged in with entity id 166 at (-134.1719945975079, 12.0, 323.61263172160284)
+[13:00:05] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[13:00:05] [Server thread/INFO]: multiplayer.player.joined
+[13:00:06] [Server thread/INFO]: [voicechat] Received secret request of Imran330 (18)
+[13:00:06] [Server thread/INFO]: [voicechat] Sent secret to Imran330
+[13:00:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
+[13:00:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
+[13:00:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Imran330 (4b534696-23d8-32b0-8c62-0fe0fb8fc407) successfully connected to voice chat
+[13:00:09] [Server thread/INFO]: Steve[/127.45.159.231:44085] logged in with entity id 350 at (-34.5, 13.0, 194.5)
+[13:00:09] [Server thread/INFO]: multiplayer.player.joined
+[13:00:15] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
+[13:00:15] [Server thread/INFO]: [voicechat] Sent secret to Steve
+[13:00:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
+[13:00:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
+[13:00:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
+[13:01:38] [Server thread/INFO]: chat.type.admin
+[13:04:05] [Server thread/INFO]: Steve lost connection: multiplayer.disconnect.generic
+[13:04:05] [Server thread/INFO]: multiplayer.player.left
+[13:04:05] [Server thread/INFO]: [voicechat] Disconnecting client Steve
