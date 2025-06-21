@@ -184,3 +184,8 @@ java.net.UnknownHostException: event-speeches.gl.at.ply.gg:2810: invalid IPv6 ad
 [08:44:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
 [08:44:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Imran330 (4b534696-23d8-32b0-8c62-0fe0fb8fc407) successfully connected to voice chat
 [08:49:06] [Server thread/ERROR]: Display entityNot a string
+[08:53:54] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/524, l='ServerLevel[Bayville]', x=-196.13, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
+[08:56:27] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/621, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
+[09:01:08] [Server thread/INFO]: Imran330 lost connection: multiplayer.disconnect.generic
+[09:01:08] [Server thread/INFO]: multiplayer.player.left
+[09:01:08] [Server thread/INFO]: [voicechat] Disconnecting client Imran330

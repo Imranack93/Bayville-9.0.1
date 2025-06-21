@@ -132,6 +132,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-06-21 08:51:27 +0000",
       "suspicious_stew": "2025-06-19 18:27:44 +0000"
     },
     "done": false
