@@ -94,6 +94,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-21 17:25:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-06-21 17:10:42 +0000"
@@ -127,6 +133,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-06-21 17:22:48 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-21 17:34:20 +0000",
       "minecraft:plains": "2025-06-21 17:00:09 +0000"
     },
     "done": false

@@ -436,3 +436,44 @@ java.net.UnknownHostException: event-speeches.gl.at.ply.gg:2810: invalid IPv6 ad
 [17:28:22] [Server thread/ERROR]: Display entityNot a string
 [17:28:22] [Server thread/ERROR]: Display entityNot a string
 [17:28:31] [Server thread/ERROR]: Display entityNot a string
+[17:30:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
+[17:30:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
+[17:30:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
+[17:30:47] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
+[17:30:47] [Server thread/INFO]: multiplayer.player.left
+[17:30:47] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
+[17:30:52] [Server thread/INFO]: [Not Secure] chat.type.text
+[17:30:53] [Server thread/INFO]: Bbsito[/127.14.89.114:43627] logged in with entity id 4449 at (721.4022616562173, 14.0, -388.60505466255563)
+[17:30:53] [Server thread/INFO]: multiplayer.player.joined
+[17:30:53] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[17:30:53] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[17:30:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:30:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:30:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[17:31:29] [Server thread/INFO]: [Not Secure] chat.type.text
+[17:33:07] [Server thread/INFO]: death.attack.anvil
+[17:33:12] [Server thread/INFO]: chat.type.admin
+[17:33:13] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/4659, l='ServerLevel[Bayville]', x=634.89, y=15.57, z=-367.84] died, message: 'death.attack.genericKill'
+[17:35:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e316124a-721f-3a21-ab63-ccdb05916ebe timed out
+[17:35:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Bbsito
+[17:35:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Bbsito
+[17:35:46] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/5094, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
+[17:35:54] [Server thread/INFO]: Bbsito lost connection: disconnect.timeout
+[17:35:54] [Server thread/INFO]: multiplayer.player.left
+[17:35:54] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
+[17:36:11] [Server thread/INFO]: Bbsito[/127.14.89.114:55773] logged in with entity id 5388 at (721.2539109656625, 14.0, -388.8326935663545)
+[17:36:11] [Server thread/INFO]: multiplayer.player.joined
+[17:36:11] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[17:36:11] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[17:36:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[17:36:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[17:36:22] [Server thread/ERROR]: Display entityNot a string
+[17:36:35] [Server thread/INFO]: chat.type.admin
+[17:37:19] [Server thread/INFO]: chat.type.admin
+[17:37:47] [Server thread/ERROR]: Display entityNot a string
+[17:37:47] [Server thread/ERROR]: Display entityNot a string
+[17:37:47] [Server thread/ERROR]: Display entityNot a string
+[17:38:13] [Server thread/INFO]: chat.type.admin
+[17:39:03] [Server thread/ERROR]: Display entityNot a string
+[17:39:04] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/6142, l='ServerLevel[Bayville]', x=654.82, y=15.20, z=-369.66] died, message: 'death.attack.genericKill'
