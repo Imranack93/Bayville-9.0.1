@@ -477,3 +477,29 @@ java.net.UnknownHostException: event-speeches.gl.at.ply.gg:2810: invalid IPv6 ad
 [17:38:13] [Server thread/INFO]: chat.type.admin
 [17:39:03] [Server thread/ERROR]: Display entityNot a string
 [17:39:04] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/6142, l='ServerLevel[Bayville]', x=654.82, y=15.20, z=-369.66] died, message: 'death.attack.genericKill'
+[17:40:00] [Server thread/INFO]: chat.type.admin
+[17:40:02] [Server thread/INFO]: chat.type.admin
+[17:40:04] [Server thread/INFO]: chat.type.admin
+[17:40:05] [Server thread/ERROR]: Display entityNot a string
+[17:40:31] [Server thread/INFO]: chat.type.admin
+[17:40:44] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/6616, l='ServerLevel[Bayville]', x=55.46, y=13.00, z=130.16] died, message: 'death.attack.genericKill'
+[17:40:44] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.armorer'/6618, l='ServerLevel[Bayville]', x=45.50, y=13.00, z=129.50] died, message: 'death.attack.genericKill'
+[17:40:46] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/6387, l='ServerLevel[Bayville]', x=719.70, y=15.20, z=-355.50] died, message: 'death.attack.genericKill'
+[17:40:48] [Server thread/ERROR]: Display entityNot a string
+[17:40:48] [Server thread/ERROR]: Display entityNot a string
+[17:40:48] [Server thread/ERROR]: Display entityNot a string
+[17:40:48] [Server thread/ERROR]: Display entityNot a string
+[17:40:52] [Server thread/INFO]: chat.type.admin
+[17:40:57] [Server thread/ERROR]: Display entityNot a string
+[17:41:38] [Server thread/INFO]: Bbsito lost connection: multiplayer.disconnect.generic
+[17:41:38] [Server thread/INFO]: multiplayer.player.left
+[17:41:38] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
+[17:41:49] [Server thread/INFO]: ALEX lost connection: multiplayer.disconnect.generic
+[17:41:49] [Server thread/INFO]: multiplayer.player.left
+[17:41:49] [Server thread/INFO]: [voicechat] Disconnecting client ALEX
+[17:41:56] [Server thread/INFO]: Steve lost connection: multiplayer.disconnect.generic
+[17:41:56] [Server thread/INFO]: multiplayer.player.left
+[17:41:56] [Server thread/INFO]: [voicechat] Disconnecting client Steve
+[17:42:12] [Server thread/INFO]: Imran330 lost connection: multiplayer.disconnect.generic
+[17:42:12] [Server thread/INFO]: multiplayer.player.left
+[17:42:12] [Server thread/INFO]: [voicechat] Disconnecting client Imran330
