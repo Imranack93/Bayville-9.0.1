@@ -189,3 +189,13 @@ java.net.UnknownHostException: event-speeches.gl.at.ply.gg:2810: invalid IPv6 ad
 [09:01:08] [Server thread/INFO]: Imran330 lost connection: multiplayer.disconnect.generic
 [09:01:08] [Server thread/INFO]: multiplayer.player.left
 [09:01:08] [Server thread/INFO]: [voicechat] Disconnecting client Imran330
+[09:18:36] [Server thread/INFO]: Imran330[/127.14.89.114:38117] logged in with entity id 868 at (72.83915261927459, 13.0, 163.68325110333416)
+[09:18:36] [Server thread/INFO]: multiplayer.player.joined
+[09:18:37] [Server thread/INFO]: [voicechat] Received secret request of Imran330 (18)
+[09:18:37] [Server thread/INFO]: [voicechat] Sent secret to Imran330
+[09:18:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
+[09:18:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
+[09:18:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Imran330 (4b534696-23d8-32b0-8c62-0fe0fb8fc407) successfully connected to voice chat
+[09:20:18] [Server thread/INFO]: Imran330 lost connection: multiplayer.disconnect.generic
+[09:20:18] [Server thread/INFO]: multiplayer.player.left
+[09:20:18] [Server thread/INFO]: [voicechat] Disconnecting client Imran330
