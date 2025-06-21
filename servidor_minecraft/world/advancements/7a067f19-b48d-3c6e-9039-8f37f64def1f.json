@@ -1,0 +1,128 @@
+{
+  "bsroleplay:recipes/misc/crown": {
+    "criteria": {
+      "has_emerald": "2025-06-21 16:43:03 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/black_briefcase_to_briefcase": {
+    "criteria": {
+      "has_black_briefcase": "2025-06-21 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-21 16:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:bsroleplay/got_police_set": {
+    "criteria": {
+      "got_police_leggings": "2025-06-21 16:44:49 +0000",
+      "got_police_boots": "2025-06-21 16:44:49 +0000",
+      "got_handcuffs": "2025-06-21 16:44:49 +0000",
+      "got_police_helmet": "2025-06-21 16:44:49 +0000",
+      "got_police_baton": "2025-06-21 16:44:49 +0000",
+      "got_police_chestplate": "2025-06-21 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-21 16:42:40 +0000"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-21 16:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-21 16:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-21 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-21 16:43:03 +0000"
+    },
+    "done": true
+  },
+  "ketket_shops:sp_adv_1": {
+    "criteria": {
+      "requirement": "2025-06-21 16:42:41 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/police_chestplate": {
+    "criteria": {
+      "has_police_baton": "2025-06-21 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-21 16:48:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-06-21 16:42:40 +0000"
+    },
+    "done": true
+  },
+  "ketkets:main": {
+    "criteria": {
+      "requirement": "2025-06-21 16:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-21 16:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-06-21 16:42:41 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-06-21 16:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-21 16:48:59 +0000"
+    },
+    "done": false
+  },
+  "bsroleplay:recipes/misc/black_briefcase_to_violet_briefcase": {
+    "criteria": {
+      "has_black_briefcase": "2025-06-21 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-21 16:42:40 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}

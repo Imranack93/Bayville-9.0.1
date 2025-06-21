@@ -43,6 +43,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-06-21 16:21:37 +0000",
       "minecraft:windswept_forest": "2025-06-21 09:52:36 +0000",
       "minecraft:plains": "2025-06-19 18:04:09 +0000"
     },
@@ -134,6 +135,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-06-21 08:51:27 +0000",
+      "bread": "2025-06-21 16:19:05 +0000",
       "suspicious_stew": "2025-06-19 18:27:44 +0000"
     },
     "done": false
