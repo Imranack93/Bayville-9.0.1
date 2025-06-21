@@ -366,5 +366,11 @@
     },
     "done": false
   },
+  "minecraft:bsroleplay/got_ender_handcuffs": {
+    "criteria": {
+      "got_ender_handcuffs": "2025-06-21 15:58:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

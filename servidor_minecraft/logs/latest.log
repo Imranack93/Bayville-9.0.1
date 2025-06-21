@@ -195,3 +195,72 @@ java.net.UnknownHostException: event-speeches.gl.at.ply.gg:2810: invalid IPv6 ad
 [15:51:52] [Server thread/INFO]: chat.type.admin
 [15:51:57] [Server thread/INFO]: chat.type.admin
 [15:55:23] [Server thread/INFO]: chat.type.admin
+[15:57:00] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/491, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
+[15:58:34] [Server thread/INFO]: chat.type.advancement.challenge
+[15:58:48] [Server thread/INFO]: chat.type.admin
+[15:59:01] [Server thread/INFO]: chat.type.admin
+[15:59:26] [Server thread/INFO]: chat.type.advancement.goal
+[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5627dd98-e6be-3c21-b8a8-e92344183641 timed out
+[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Steve
+[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Steve
+[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4b534696-23d8-32b0-8c62-0fe0fb8fc407 timed out
+[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Imran330
+[15:59:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Imran330
+[15:59:57] [Server thread/INFO]: Steve lost connection: disconnect.timeout
+[15:59:57] [Server thread/INFO]: multiplayer.player.left
+[15:59:57] [Server thread/INFO]: [voicechat] Disconnecting client Steve
+[15:59:57] [Server thread/WARN]: handleDisconnection() called twice
+[16:00:01] [Server thread/INFO]: Imran330 lost connection: disconnect.timeout
+[16:00:01] [Server thread/INFO]: multiplayer.player.left
+[16:00:01] [Server thread/INFO]: [voicechat] Disconnecting client Imran330
+[16:05:41] [Server thread/INFO]: Steve[/127.14.89.114:37727] logged in with entity id 744 at (-84.180090594878, 12.0, 269.76365369184515)
+[16:05:41] [Server thread/INFO]: multiplayer.player.joined
+[16:05:41] [Server thread/INFO]: [voicechat] Received secret request of Steve (18)
+[16:05:41] [Server thread/INFO]: [voicechat] Sent secret to Steve
+[16:05:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5627dd98-e6be-3c21-b8a8-e92344183641
+[16:05:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5627dd98-e6be-3c21-b8a8-e92344183641
+[16:05:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Steve (5627dd98-e6be-3c21-b8a8-e92344183641) successfully connected to voice chat
+[16:06:03] [Server thread/INFO]: Bbsito[/127.14.89.114:50125] logged in with entity id 747 at (-34.5, 13.0, 194.5)
+[16:06:03] [Server thread/INFO]: multiplayer.player.joined
+[16:06:05] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[16:06:05] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[16:06:07] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/764, l='ServerLevel[Bayville]', x=5.50, y=4.00, z=166.50] died, message: 'death.attack.genericKill'
+[16:06:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[16:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[16:06:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[16:06:11] [Server thread/INFO]: Bbsito lost connection: multiplayer.disconnect.generic
+[16:06:11] [Server thread/INFO]: multiplayer.player.left
+[16:06:11] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
+[16:07:05] [Server thread/INFO]: Imran330[/127.14.89.114:37357] logged in with entity id 830 at (-84.68153918375128, 12.0, 267.3418997986498)
+[16:07:05] [Server thread/INFO]: multiplayer.player.joined
+[16:07:05] [Server thread/INFO]: [voicechat] Received secret request of Imran330 (18)
+[16:07:05] [Server thread/INFO]: [voicechat] Sent secret to Imran330
+[16:07:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
+[16:07:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4b534696-23d8-32b0-8c62-0fe0fb8fc407
+[16:07:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Imran330 (4b534696-23d8-32b0-8c62-0fe0fb8fc407) successfully connected to voice chat
+[16:08:29] [Server thread/INFO]: chat.type.admin
+[16:08:38] [Server thread/INFO]: Bbsito[/127.14.89.114:33929] logged in with entity id 893 at (-35.5, 14.0, 163.5)
+[16:08:38] [Server thread/INFO]: multiplayer.player.joined
+[16:08:40] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[16:08:40] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[16:08:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[16:08:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[16:08:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[16:08:44] [Server thread/INFO]: Bbsito lost connection: multiplayer.disconnect.generic
+[16:08:44] [Server thread/INFO]: multiplayer.player.left
+[16:08:44] [Server thread/INFO]: [voicechat] Disconnecting client Bbsito
+[16:11:05] [Server thread/INFO]: Bbsito[/127.14.89.114:54771] logged in with entity id 1040 at (-35.5, 14.0, 163.5)
+[16:11:05] [Server thread/INFO]: multiplayer.player.joined
+[16:11:07] [Server thread/INFO]: [voicechat] Received secret request of Bbsito (18)
+[16:11:07] [Server thread/INFO]: [voicechat] Sent secret to Bbsito
+[16:11:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e316124a-721f-3a21-ab63-ccdb05916ebe
+[16:11:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e316124a-721f-3a21-ab63-ccdb05916ebe
+[16:11:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Bbsito (e316124a-721f-3a21-ab63-ccdb05916ebe) successfully connected to voice chat
+[16:12:53] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1147, l='ServerLevel[Bayville]', x=-196.10, y=15.43, z=254.50] died, message: 'death.attack.genericKill'
+[16:12:58] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/1108, l='ServerLevel[Bayville]', x=22.91, y=15.20, z=78.80] died, message: 'death.attack.genericKill'
+[16:14:43] [Server thread/INFO]: chat.type.admin
+[16:14:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/760, l='ServerLevel[Bayville]', x=3.22, y=3.00, z=158.49] died, message: 'death.attack.genericKill'
+[16:14:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/761, l='ServerLevel[Bayville]', x=-5.50, y=3.00, z=160.15] died, message: 'death.attack.genericKill'
+[16:14:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/762, l='ServerLevel[Bayville]', x=3.22, y=3.00, z=159.51] died, message: 'death.attack.genericKill'
+[16:14:48] [Server thread/INFO]: Villager class_1646['entity.minecraft.villager.none'/763, l='ServerLevel[Bayville]', x=-8.08, y=3.00, z=163.10] died, message: 'death.attack.genericKill'
+[16:14:54] [Server thread/INFO]: chat.type.admin

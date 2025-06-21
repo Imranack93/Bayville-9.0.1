@@ -77,5 +77,52 @@
     },
     "done": true
   },
+  "minecraft:bsroleplay/got_police_set": {
+    "criteria": {
+      "got_police_leggings": "2025-06-21 15:52:10 +0000",
+      "got_police_boots": "2025-06-21 15:52:08 +0000",
+      "got_handcuffs": "2025-06-21 15:59:26 +0000",
+      "got_police_helmet": "2025-06-21 15:52:06 +0000",
+      "got_police_baton": "2025-06-21 15:52:13 +0000",
+      "got_police_chestplate": "2025-06-21 15:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-21 15:52:08 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/police_chestplate": {
+    "criteria": {
+      "has_police_baton": "2025-06-21 15:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-21 15:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-21 15:55:55 +0000"
+    },
+    "done": false
+  },
+  "bsroleplay:recipes/misc/black_briefcase_to_briefcase": {
+    "criteria": {
+      "has_black_briefcase": "2025-06-21 15:59:38 +0000"
+    },
+    "done": true
+  },
+  "bsroleplay:recipes/misc/black_briefcase_to_violet_briefcase": {
+    "criteria": {
+      "has_black_briefcase": "2025-06-21 15:59:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
